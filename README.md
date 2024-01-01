@@ -7,7 +7,7 @@
 
 Doutora em Engenharia da Computação pela Universidade de Pernambuco (2023). 
 
-Analista de sistemas da <a href="https://github.com/Argila-Tecnologia">Argila Tecnologia</a>
+Analista de sistemas da <a href="https://github.com/Argila-Tecnologia" text-decoration="none" color="#f96304" font="bold">Argila Tecnologia</a>
 
 Atuo na área de desenvolvimento de softwares, elaborando sites, aplicativos e sistemas mediante à necessidade do cliente. Apaixonada por tecnologia e em constante aprendizado!
 
