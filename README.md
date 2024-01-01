@@ -1,13 +1,13 @@
 ### Lubnnia Morais
 
 <div>
-  <a href = "mailto:lubnnia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" target="_blank"></a>
+  <a href="mailto:lubnnia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lubnnia-morais-554636109/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" target="_blank"></a>   
 </div>
 
 Doutora em Engenharia da Computação pela Universidade de Pernambuco (2023). 
 
-Analista de sistemas da @Argila-Tecnologia. 
+Analista de sistemas da <a href="https://github.com/Argila-Tecnologia"><img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge" target="_blank"></a>
 
 Atuo na área de desenvolvimento de softwares, elaborando sites, aplicativos e sistemas mediante à necessidade do cliente. Apaixonada por tecnologia e em constante aprendizado!
 
