@@ -1,16 +1,23 @@
-### Hi there 👋
+### Lubnnia Morais
 
 <!--
-**lubnniamorais/lubnniamorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.linkedin.com/in/lubnnia-morais-554636109/
+lubnnia@gmail.com
 
-Here are some ideas to get you started:
+- Doutora em Engenharia da Computação pela Universidade de Pernambuco (2023). 
+- Analista de sistemas da @Argila-Tecnologia. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Atuo na área de desenvolvimento de softwares, elaborando sites, aplicativos e sistemas mediante à necessidade do cliente. Apaixonada por tecnologia e em constante aprendizado!
+
+- Tenho experiência com as seguintes tecnologias:
+
+- Node.js;
+- TypeScript; 
+- React JS;
+- React Native;
+- Rest APIs;
+- PostgreSQL and MongoDB;
+- Git;
+- ORM (TypeORM, Prisma)
 -->
+
