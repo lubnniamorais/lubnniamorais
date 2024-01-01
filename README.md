@@ -1,6 +1,5 @@
 ### Lubnnia Morais
 
-<!--
 https://www.linkedin.com/in/lubnnia-morais-554636109/
 lubnnia@gmail.com
 
@@ -19,5 +18,3 @@ lubnnia@gmail.com
 - PostgreSQL and MongoDB;
 - Git;
 - ORM (TypeORM, Prisma)
--->
-
